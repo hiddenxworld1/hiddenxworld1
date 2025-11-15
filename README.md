@@ -16,7 +16,7 @@
 
 <br/>
 
-Hey there! I'm **Rajesh Yadav**, a passionate **beginner MERN Stack Developer** from **Pimpri, Maharashtra, India** 🇮🇳. I'm on an exciting journey to master full-stack web development with **MongoDB, Express.js, React.js, and Node.js**. 
+Hey there! I'm **Rajesh Yadav**, a passionate **beginner MERN Stack Developer** from ** Maharashtra, India** 🇮🇳. I'm on an exciting journey to master full-stack web development with **MongoDB, Express.js, React.js, and Node.js**. 
 
 I love turning ideas into reality through code and exploring new technologies. My 2024 goal is to become proficient in full-stack development and contribute to open-source projects. When I'm not coding, you'll find me debugging with console.log() 😄 or learning the latest web dev trends!
 
